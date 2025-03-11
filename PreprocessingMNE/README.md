@@ -1,5 +1,4 @@
-Here’s a detailed README for your GitHub repository:
-
+---
 ---
 
 # **EEG Preprocessing with MNE**
